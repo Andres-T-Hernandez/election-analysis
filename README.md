@@ -6,6 +6,7 @@ The purpose of this analysis is to calculate vote totals overall and for candida
 
 ## Results
 Image of results
+
 ![enter image description here](https://raw.githubusercontent.com/Andres-T-Hernandez/election-analysis/main/Resources/election_results.png)
  -   *How many votes were cast in this congressional election?*
 The total number of votes cast in the election is 369,711
